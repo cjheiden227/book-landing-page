@@ -1,4 +1,4 @@
-- name: Get the Book on Amazon
+- name: Click Here to Get the Book on Amazon
   link: https://www.amazon.com/How-Win-Your-Case-Psychiatrist-ebook/dp/B08Z79YCLR/ref=sr_1_1?dchild=1&keywords=how+to+win+your+case+thomas+curtis&qid=1616698091&sr=8-1
   new_window: true
   highlight: true
